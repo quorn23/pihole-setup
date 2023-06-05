@@ -1,0 +1,79 @@
+## google
+clients4.google.com 
+clients2.google.com
+s.youtube.com 
+video-stats.l.google.com
+android.clients.google.com
+gstaticadssl.l.google.com
+googleapis.l.google.com
+dl.google.com
+
+## microsoft
+www.msftncsi.com
+outlook.office365.com 
+products.office.com 
+c.s-microsoft.com 
+i.s-microsoft.com 
+login.live.com
+ogin.microsoftonline.com
+g.live.com
+dl.delivery.mp.microsoft.com 
+geo-prod.do.dsp.mp.microsoft.com 
+displaycatalog.mp.microsoft.com
+sls.update.microsoft.com.akadns.net 
+fe3.delivery.dsp.mp.microsoft.com.nsatc.net 
+tlu.dl.delivery.mp.microsoft.com
+msedge.api.cdp.microsof
+clientconfig.passport.nett.com
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
+client-s.gateway.messenger.live.com
+arc.msn.com
+activity.windows.com
+licensing.mp.microsoft.com
+
+# android
+connectivitycheck.android.com 
+android.clients.google.com 
+clients3.google.com 
+connectivitycheck.gstatic.com
+
+# spotify
+spclient.wg.spotify.com 
+apresolve.spotify.com
+api-tv.spotify.com
+
+# media
+gravatar.com # custom login pictures
+thetvdb.com # metadata for tv series
+themoviedb.com # metadata for movies
+chtbl.com # iHeart radio/Plex Podcast
+services.sonarr.tv 
+skyhook.sonarr.tv 
+download.sonarr.tv 
+apt.sonarr.tv 
+forums.sonarr.tv
+
+# Misc
+placehold.it 
+placeholdit.imgix.net
+dl.dropboxusercontent.com 
+ns1.dropbox.com 
+ns2.dropbox.com
+gfwsl.geforce.com
+prod.telemetry.ros.rockstargames.com
+tracking.epicgames.com
+cloudsync-prod.s3.amazonaws.com
+tracking-protection.cdn.mozilla.net
+
+# whatsapp
+wa.me
+www.wa.me
+
+# twitter
+twitter.com
+upload.twitter.com
+api.twitter.com
+mobile.twitter.com
+
+
