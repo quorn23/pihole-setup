@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/tif.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/ultimate.txt
